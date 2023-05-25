@@ -1,0 +1,59 @@
+body{
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:1920 1080 px;
+    background-color:lightgrey;
+
+}
+
+
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+}
+
+
+body{
+padding: 50px 100px;
+width:100%;
+height:100%;
+}
+
+h1{
+text-align: center;
+margin: 100px;
+color:gray;
+text-shadow: 2px 2px 4px black;
+text-transform: uppercase;
+}
+
+#container{
+text-align:center;
+background-color:rgb(136, 135, 135);
+padding:50px;
+margin:90px;
+border-radius:10px;
+
+
+}
+.input-folder{
+display:inline-block;
+box-shadow: 2px 2px 4px black;
+
+}
+.input-style{
+padding: 15px 10px;
+margin: 15px;
+font-weight: 600;
+background-color: lightgray;
+box-shadow: 4px 4px 9px black;
+}
+label{
+font-style: italic;
+font-weight: 900;
+font-size:20px;
+color:gray;
+text-transform:uppercase ;
+text-shadow: 1px 1px 3px black;
+}
